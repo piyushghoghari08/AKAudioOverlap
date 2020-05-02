@@ -1,5 +1,6 @@
 # AKAudioOverlap
 
+<img src="https://github.com/piyushghoghari08/Waveform/blob/master/ScreenShorts/Simulator%20Screen%20Shot%20-%20iPhone%206s%20-%202019-02-04%20at%2021.08.11.png"  height="568" width="320">        
 
 ## Building the Project
 
@@ -12,3 +13,12 @@
 4. Select target and device on top and click on play button (project is required minimum iOS version 13.0 and compatible with iPhone and iPad)
 
 
+<h3> Features </h3>
+
+<p> > Audio Recording.</p>
+<p> > Convert audio recoding file to waveform.</p>
+<p> > Overlap audio.</p>
+<p> > Save into local storage.</p>
+
+<h3> Dependencies </h3>
+<a href="https://github.com/spenciefy/SYWaveformPlayer"> <b> SYWaveformPlayer </b></a> </br>
