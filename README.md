@@ -1,6 +1,6 @@
 # AKAudioOverlap
 
-<img src="https://github.com/piyushghoghari08/Waveform/blob/master/ScreenShorts/Simulator%20Screen%20Shot%20-%20iPhone%206s%20-%202019-02-04%20at%2021.08.11.png"  height="568" width="320">        
+<img src="https://github.com/piyushghoghari08/AKAudioOverlap/blob/master/ScreenShort/appScreenShort.png"  height="568" width="320">        
 
 ## Building the Project
 
