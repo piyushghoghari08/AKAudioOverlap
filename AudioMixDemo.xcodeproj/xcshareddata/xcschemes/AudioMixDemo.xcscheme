@@ -15,7 +15,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "218A2E3A245006DC001D07E3"
-               BuildableName = "AudioMixDemo.app"
+               BuildableName = "AKAudioOverlap.app"
                BlueprintName = "AudioMixDemo"
                ReferencedContainer = "container:AudioMixDemo.xcodeproj">
             </BuildableReference>
@@ -46,7 +46,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "218A2E3A245006DC001D07E3"
-            BuildableName = "AudioMixDemo.app"
+            BuildableName = "AKAudioOverlap.app"
             BlueprintName = "AudioMixDemo"
             ReferencedContainer = "container:AudioMixDemo.xcodeproj">
          </BuildableReference>
@@ -63,7 +63,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "218A2E3A245006DC001D07E3"
-            BuildableName = "AudioMixDemo.app"
+            BuildableName = "AKAudioOverlap.app"
             BlueprintName = "AudioMixDemo"
             ReferencedContainer = "container:AudioMixDemo.xcodeproj">
          </BuildableReference>

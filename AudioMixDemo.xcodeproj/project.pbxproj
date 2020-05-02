@@ -54,7 +54,7 @@
 
 /* Begin PBXFileReference section */
 		21134414245DD3C6007FCF01 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
-		218A2E3B245006DC001D07E3 /* AudioMixDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AudioMixDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		218A2E3B245006DC001D07E3 /* AKAudioOverlap.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AKAudioOverlap.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		218A2E3E245006DC001D07E3 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		218A2E40245006DC001D07E3 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		218A2E42245006DC001D07E3 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -126,7 +126,7 @@
 		218A2E3C245006DC001D07E3 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				218A2E3B245006DC001D07E3 /* AudioMixDemo.app */,
+				218A2E3B245006DC001D07E3 /* AKAudioOverlap.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -305,7 +305,7 @@
 			);
 			name = AudioMixDemo;
 			productName = AudioMixDemo;
-			productReference = 218A2E3B245006DC001D07E3 /* AudioMixDemo.app */;
+			productReference = 218A2E3B245006DC001D07E3 /* AKAudioOverlap.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -554,12 +554,12 @@
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.iTouchSoluation.AudioMixDemo;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = AKAudioOverlap;
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_OBJC_BRIDGING_HEADER = "AudioMixDemo/AudioMixDemo-Bridging-Header.h";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
@@ -578,11 +578,11 @@
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.iTouchSoluation.AudioMixDemo;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = AKAudioOverlap;
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_OBJC_BRIDGING_HEADER = "AudioMixDemo/AudioMixDemo-Bridging-Header.h";
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};
