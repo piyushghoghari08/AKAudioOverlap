@@ -2,6 +2,10 @@
 
 <img src="https://github.com/piyushghoghari08/AKAudioOverlap/blob/master/ScreenShort/appScreenShort.png"  height="568" width="320">        
 
+## Description
+
+AKAudioOverlap is audio recording, convert audio to wavefoem, overlap two audio and export/ save into local device.
+
 ## Building the Project
 
 1. Clone the repo:
